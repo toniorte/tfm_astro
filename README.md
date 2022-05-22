@@ -1,4 +1,4 @@
-# TFM Astronomía y Astrofísica
+# TFM Astronomía y Astrofísica, VIU 2021/2022
 
 · ejercicio_1: just a PoC (J-PAS and blackbody).
 
